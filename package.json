@@ -1,0 +1,26 @@
+{
+  "name": "rest-n-node",
+  "version": "1.0.0",
+  "description": "RESTful API design with Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratikSethi/REST-N-Node.git"
+  },
+  "keywords": [
+    "node",
+    "rest"
+  ],
+  "author": "Pratik Sethi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratikSethi/REST-N-Node/issues"
+  },
+  "homepage": "https://github.com/pratikSethi/REST-N-Node#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
