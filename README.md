@@ -1,6 +1,9 @@
 # REST-N-Node
 RESTful API design with Node.js
 
+The code for this application has been taken from this post 
+	https://dev.to/raha198/restful-api-design-with-nodejs
+
 How to run the application
 
 Make sure you have mongodb installed locally. Follow the instructions on
